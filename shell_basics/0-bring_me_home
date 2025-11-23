@@ -1,1 +1,1 @@
-cd "$(getent passwd "$(whoami)" | cut -d: -f6)"
+#!/bin/bash
