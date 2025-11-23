@@ -1,2 +1,2 @@
-0-bring_me_home
-1-listfiles
+#!/bin/bash
+cd ~
